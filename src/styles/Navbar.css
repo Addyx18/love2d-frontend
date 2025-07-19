@@ -1,0 +1,11 @@
+.nav-container ul {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: right;
+}
+
+.nav-container img {
+    height: 30px;
+    width: auto;
+}
